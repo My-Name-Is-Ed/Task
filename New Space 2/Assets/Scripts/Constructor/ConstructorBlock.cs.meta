@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e2896979c7ec8494aa8d3a61e088e2fa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - CommandCenter: {fileID: 1600965142754241721, guid: 4881efc9260b90340b0467befc10a32a, type: 3}
+  - Buttery: {fileID: 6073752241108622893, guid: 6663d2f18c3a36d40965df237bf484f8, type: 3}
+  - Collector: {fileID: 5046439933397924955, guid: f7dcb80fa90de4841a36a390bd355914, type: 3}
+  - Converter: {fileID: 8539254607681876272, guid: 2f5f5a267fcc3f34abe848caa89857c7, type: 3}
+  - Engine: {fileID: 4779370898131347811, guid: 36d5770ae4d67ab4ba9e805f979900c1, type: 3}
+  - Frame: {fileID: 165585402329219035, guid: c2f68518260b0de49bf28ac10713c2e6, type: 3}
+  - Generator: {fileID: 4208114538462043498, guid: a29f94cf6a220014796694262a03b154, type: 3}
+  - Gun: {fileID: 8321436686541483892, guid: 7d3d1bb66e5788c4d84272d9b2829f19, type: 3}
+  - Repeirer: {fileID: 1896832778776890663, guid: ccc29509f6b73db4c9a5b963233d6f04, type: 3}
+  - Repository: {fileID: 7895729053389621781, guid: 2be94bcc8ec8d494c88c325edbead469, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
